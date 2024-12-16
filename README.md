@@ -1,16 +1,23 @@
 # final_project
 
-A new Flutter project.
+Job Search App
 
-## Getting Started
+## Contributions
 
-This project is a starting point for a Flutter application.
+Code Contributors:
+- Jane McPheron
+- Milly Maleck
+- Jacob Halvorson
+- Lucanzo Giancola
+- Isaac Lonnes
+- Jackson Dugan
 
-A few resources to get you started if this is your first Flutter project:
+Datasets from Kaggle.
+- https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
+- https://www.kaggle.com/datasets/emreksz/software-engineer-jobs-and-salaries-2024
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Process
+Followed Agile framework to quickly put together a job search
+app over the course of one week. Used GitHub projects to organize
+user stories for app features and delegate tasks to groupmates. Practiced
+pair programming.
