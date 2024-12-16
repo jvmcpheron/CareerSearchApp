@@ -1,4 +1,4 @@
-# final_project
+# Software Engineering Final Project
 
 Job Search App
 
